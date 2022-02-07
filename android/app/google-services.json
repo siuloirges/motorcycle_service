@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611807199599",
+    "project_id": "motorcycleservice-cb3d9",
+    "storage_bucket": "motorcycleservice-cb3d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611807199599:android:f7de4a858f4976abd5e89a",
+        "android_client_info": {
+          "package_name": "com.unisinu.motorcycle_service"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611807199599-kudqdldojm0638pbmhtsmri7fld6qqd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRUAuSuJux7nBp48jSMYjM_2GYn0Kihec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611807199599-kudqdldojm0638pbmhtsmri7fld6qqd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
